@@ -1,0 +1,9 @@
+module.exports = {
+          srcSet: __webpack_public_path__ + "./img/x_rsp_top_bk300300.jpg"+" 300w",
+          images:[ {path: __webpack_public_path__ + "./img/x_rsp_top_bk300300.jpg",width: 300,height: 169}],
+          src: __webpack_public_path__ + "./img/x_rsp_top_bk300300.jpg",
+          toString:function(){return __webpack_public_path__ + "./img/x_rsp_top_bk300300.jpg"},
+          
+          width: 300,
+          height: 169
+        }
